@@ -6,7 +6,7 @@ using namespace mcmap;
 
 int main () {
 	McMapSettings settings;
-	settings.fileName = "zoowee";
+	settings.fileName = "makefile";
 	settings.includeRoof = false;
 	settings.layerHeight = 2;
 	settings.sizeX = 5000;
